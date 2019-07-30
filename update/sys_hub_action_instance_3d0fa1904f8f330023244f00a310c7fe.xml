@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Geographic Data from IP">ffdb01c04fc3330023244f00a310c789</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">927ccd804fc3330023244f00a310c7fa</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-30 20:39:13</sys_created_on>
+        <sys_id>3d0fa1904f8f330023244f00a310c7fe</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IPInfo Spoke" source="x_372991_ipinfo_sp">385bcd4c4f83330023244f00a310c7ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">385bcd4c4f83330023244f00a310c7ab</sys_scope>
+        <sys_update_name>sys_hub_action_instance_3d0fa1904f8f330023244f00a310c7fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-30 20:40:58</sys_updated_on>
+        <ui_id>704bea17-8046-4c2a-97d4-fa716d1b8904</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=3d0fa1904f8f330023244f00a310c7fe"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>3d0fa1904f8f330023244f00a310c7fe</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-30 20:40:58</sys_created_on>
+        <sys_id>176fa5904f8f330023244f00a310c7fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-30 20:40:58</sys_updated_on>
+        <value>https://www.ipchicken.com/</value>
+        <variable display_value="">16be49444fc3330023244f00a310c7a7</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"704bea17-8046-4c2a-97d4-fa716d1b8904.longitude","label":"1➛Longitude","reference_display":"Longitude","type":"string","base_type":"string"},{"name":"704bea17-8046-4c2a-97d4-fa716d1b8904.latitude","label":"1➛Latitude","reference_display":"Latitude","type":"string","base_type":"string"},{"name":"704bea17-8046-4c2a-97d4-fa716d1b8904.country","label":"1➛Country","reference_display":"Country","type":"string","base_type":"string"},{"name":"704bea17-8046-4c2a-97d4-fa716d1b8904.region","label":"1➛Region","reference_display":"Region","type":"string","base_type":"string"},{"name":"704bea17-8046-4c2a-97d4-fa716d1b8904.city","label":"1➛City","reference_display":"City","type":"string","base_type":"string"},{"name":"704bea17-8046-4c2a-97d4-fa716d1b8904.hostname","label":"1➛Hostname","reference_display":"Hostname","type":"string","base_type":"string"},{"name":"704bea17-8046-4c2a-97d4-fa716d1b8904.ip_address","label":"1➛IP address","reference_display":"IP address","type":"ip_address","base_type":"ip_address"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-29 23:29:47</sys_created_on>
+        <sys_id>927ccd804fc3330023244f00a310c7fa</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_372991_ipinfo_sp">385bcd4c4f83330023244f00a310c7ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">385bcd4c4f83330023244f00a310c7ab</sys_scope>
+        <sys_update_name>sys_hub_flow_927ccd804fc3330023244f00a310c7fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-30 20:40:58</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=927ccd804fc3330023244f00a310c7fa"/>
+    <sys_variable_value action="delete_multiple" query="document_key=927ccd804fc3330023244f00a310c7fa"/>
+</record_update>
